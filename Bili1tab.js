@@ -2,7 +2,7 @@
 // @name         Bili1Tab (强制同标签)
 // @namespace    http://tampermonkey.net/
 // @version      1.0
-// @description  B 站标签是弱能人仕寫的.  强制 B 站所有链接在当前标签页打开，禁止新标签
+// @description  B 站标签是弱能人仕寫的.  强制 B 站所有链接在当前标签页打开，禁止新标签.
 // @author       You
 // @match        *://*.bilibili.com/*
 // @grant        none
